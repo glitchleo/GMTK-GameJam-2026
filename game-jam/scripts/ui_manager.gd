@@ -43,4 +43,4 @@ func restart_game():
 
 func go_to_menu():
 	get_tree().paused = false
-	get_tree().change_scene_to_file("res://scenes/actors/MainMenu.tscn")
+	get_tree().change_scene_to_file("res://Scenes/actors/MainMenu.tscn")
